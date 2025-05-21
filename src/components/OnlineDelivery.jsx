@@ -60,6 +60,9 @@ function OnlineDelivery() {
       <div className="flex max-w-[1200px] mx-auto my-3 gap-3 border border-gray-200">
           <div className="p-3 rounded-md shadow ">Filter </div>
           <div className="p-3 rounded-md shadow ">Sort by </div>
+          <div className="p-3 rounded-md shadow ">City </div>
+          <div className="p-3 rounded-md shadow ">Price </div>
+          <div className="p-3 rounded-md shadow ">deals </div>
         </div>
       </div>
       <div className="grid grid-cols-2 mx-2 md:grid-cols-4 gap-3">
